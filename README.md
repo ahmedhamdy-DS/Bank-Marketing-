@@ -1,4 +1,4 @@
-# Project Name
+#Bank Marketing uci
 
 Short description of the project: what problem we are solving and what the data is about.
 
