@@ -2,13 +2,6 @@
 
 University group project. We analyze direct marketing campaigns (phone calls) of a Portuguese bank and build models to predict whether a client will subscribe to a term deposit.
 
-## Team
-
-| Name | GitHub |
-|------|--------|
-| Ahmed Hamdy | [@ahmedhamdy-DS](https://github.com/ahmedhamdy-DS) |
-| Member 2 | @username |
-| Member 3 | @username |
 
 ## Dataset
 
@@ -61,19 +54,6 @@ If the files are too big for the repo, we keep them out of Git and share them on
 
 ## Setup
 
-1. Clone the repo:
-   ```
-   git clone <repo-url>
-   cd <repo-name>
-   ```
-2. (Optional) Create a virtual environment:
-   ```
-   python -m venv venv
-   venv\Scripts\activate        # Windows
-   source venv/bin/activate     # Mac / Linux
-   ```
-3. Install the libraries:
-   ```
    pip install -r requirements.txt
    ```
 4. Start Jupyter:
