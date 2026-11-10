@@ -37,7 +37,7 @@ Load it like this (the separator is `;`):
 
 ```python
 import pandas as pd
-df = pd.read_csv("data/bank-full.csv", sep=";")
+data = pd.read_csv("data/bank-full.csv", sep=";")
 ```
 
 If the files are too big for the repo, we keep them out of Git and share them on Drive: add link here.
